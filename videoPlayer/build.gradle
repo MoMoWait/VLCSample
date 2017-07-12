@@ -1,0 +1,30 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+
+    defaultConfig {
+        applicationId "com.gf.test.videoplayer"
+        minSdkVersion 19
+        targetSdkVersion 22
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+repositories{
+    flatDir {
+        dirs 'libs'
+    }
+}
+dependencies {
+    compile files('libs/androidutils.jar')
+    compile files('libs/xutils.jar')
+    compile 'com.android.support:appcompat-v7:25.1.1'
+    compile(name: 'libvlc-3.0.0', ext: 'aar')
+}

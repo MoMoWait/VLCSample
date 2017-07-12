@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">视频播放器</string>
+    <string name="hello_world">世界，你好!</string>
+    <string name="action_settings">设置</string>
+    <string name="start">播放</string>
+    <string name="url">URL</string>
+    <string name="clear_input">清空输入</string>
+    <string name="clear_urls">清空URL</string>
+</resources>
