@@ -53,7 +53,7 @@ public class MainActivity extends BaseActivity implements View.OnClickListener{
 		mBtnEmptyInput.setOnClickListener(this);
 		mBtnEmptyUrls.setOnClickListener(this);
 		UrlInfo urlInfo = new UrlInfo();
-		urlInfo.setUrl("rtsp://c.itvitv.com/hj.kprkjmf");
+		urlInfo.setUrl("file:///mnt/sdcard/1.mp4");
 		mUrlInfoService.save(urlInfo);
 	}
 

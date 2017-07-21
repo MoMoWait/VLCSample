@@ -1,4 +1,7 @@
-#Fri Jul 07 11:38:39 CST 2017
-base.0=D\:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Fri Jul 21 11:18:35 CST 2017
+base.0=D\:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1f5d633d69f8aa8a5b61cd42af9ca5a3496598b6
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=D\:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.1=D\:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6ecbf9985b9ebacde994d25ccda6763554b4acf6\\classes.dex
+base.1=D\:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6ecbf9985b9ebacde994d25ccda6763554b4acf6
+file.0=D\:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1f5d633d69f8aa8a5b61cd42af9ca5a3496598b6\\classes.dex

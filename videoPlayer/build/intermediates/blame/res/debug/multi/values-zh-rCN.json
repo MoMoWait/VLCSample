@@ -11,7 +11,14 @@
                     "endOffset": 146
                 },
                 "from": {
-                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\GaoFei\\.android\\build-cache\\cca74901766c2a812299733455f96a66c70cd957\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 95,
+                        "endOffset": 146
+                    }
                 }
             },
             {
@@ -23,7 +30,14 @@
                     "endOffset": 253
                 },
                 "from": {
-                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\GaoFei\\.android\\build-cache\\cca74901766c2a812299733455f96a66c70cd957\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 106,
+                        "endOffset": 253
+                    }
                 }
             },
             {
@@ -35,7 +49,14 @@
                     "endOffset": 376
                 },
                 "from": {
-                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\GaoFei\\.android\\build-cache\\cca74901766c2a812299733455f96a66c70cd957\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 258,
+                        "endColumn": 122,
+                        "endOffset": 376
+                    }
                 }
             },
             {
@@ -47,7 +68,14 @@
                     "endOffset": 471
                 },
                 "from": {
-                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\GaoFei\\.android\\build-cache\\cca74901766c2a812299733455f96a66c70cd957\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 381,
+                        "endColumn": 94,
+                        "endOffset": 471
+                    }
                 }
             },
             {
@@ -59,7 +87,14 @@
                     "endOffset": 571
                 },
                 "from": {
-                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\GaoFei\\.android\\build-cache\\cca74901766c2a812299733455f96a66c70cd957\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 476,
+                        "endColumn": 99,
+                        "endOffset": 571
+                    }
                 }
             },
             {
@@ -71,7 +106,14 @@
                     "endOffset": 653
                 },
                 "from": {
-                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\GaoFei\\.android\\build-cache\\cca74901766c2a812299733455f96a66c70cd957\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 576,
+                        "endColumn": 81,
+                        "endOffset": 653
+                    }
                 }
             },
             {
@@ -83,7 +125,14 @@
                     "endOffset": 750
                 },
                 "from": {
-                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\GaoFei\\.android\\build-cache\\cca74901766c2a812299733455f96a66c70cd957\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 658,
+                        "endColumn": 96,
+                        "endOffset": 750
+                    }
                 }
             },
             {
@@ -95,7 +144,14 @@
                     "endOffset": 856
                 },
                 "from": {
-                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\GaoFei\\.android\\build-cache\\cca74901766c2a812299733455f96a66c70cd957\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 755,
+                        "endColumn": 105,
+                        "endOffset": 856
+                    }
                 }
             },
             {
@@ -107,7 +163,14 @@
                     "endOffset": 932
                 },
                 "from": {
-                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\GaoFei\\.android\\build-cache\\cca74901766c2a812299733455f96a66c70cd957\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 861,
+                        "endColumn": 75,
+                        "endOffset": 932
+                    }
                 }
             },
             {
@@ -119,7 +182,14 @@
                     "endOffset": 1008
                 },
                 "from": {
-                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\GaoFei\\.android\\build-cache\\cca74901766c2a812299733455f96a66c70cd957\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 937,
+                        "endColumn": 75,
+                        "endOffset": 1008
+                    }
                 }
             },
             {
@@ -131,7 +201,14 @@
                     "endOffset": 1086
                 },
                 "from": {
-                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\GaoFei\\.android\\build-cache\\cca74901766c2a812299733455f96a66c70cd957\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1013,
+                        "endColumn": 77,
+                        "endOffset": 1086
+                    }
                 }
             },
             {
@@ -143,7 +220,14 @@
                     "endOffset": 1182
                 },
                 "from": {
-                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\GaoFei\\.android\\build-cache\\cca74901766c2a812299733455f96a66c70cd957\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1091,
+                        "endColumn": 95,
+                        "endOffset": 1182
+                    }
                 }
             },
             {
@@ -155,7 +239,14 @@
                     "endOffset": 1278
                 },
                 "from": {
-                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\GaoFei\\.android\\build-cache\\cca74901766c2a812299733455f96a66c70cd957\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1187,
+                        "endColumn": 95,
+                        "endOffset": 1278
+                    }
                 }
             },
             {
@@ -167,7 +258,14 @@
                     "endOffset": 1373
                 },
                 "from": {
-                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\GaoFei\\.android\\build-cache\\cca74901766c2a812299733455f96a66c70cd957\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1283,
+                        "endColumn": 94,
+                        "endOffset": 1373
+                    }
                 }
             },
             {
@@ -179,7 +277,14 @@
                     "endOffset": 1470
                 },
                 "from": {
-                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\GaoFei\\.android\\build-cache\\cca74901766c2a812299733455f96a66c70cd957\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1378,
+                        "endColumn": 96,
+                        "endOffset": 1470
+                    }
                 }
             },
             {
@@ -191,7 +296,14 @@
                     "endOffset": 1565
                 },
                 "from": {
-                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\GaoFei\\.android\\build-cache\\cca74901766c2a812299733455f96a66c70cd957\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1475,
+                        "endColumn": 94,
+                        "endOffset": 1565
+                    }
                 }
             },
             {
@@ -203,7 +315,14 @@
                     "endOffset": 1663
                 },
                 "from": {
-                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\GaoFei\\.android\\build-cache\\cca74901766c2a812299733455f96a66c70cd957\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1570,
+                        "endColumn": 97,
+                        "endOffset": 1663
+                    }
                 }
             },
             {
@@ -215,7 +334,14 @@
                     "endOffset": 1775
                 },
                 "from": {
-                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\GaoFei\\.android\\build-cache\\cca74901766c2a812299733455f96a66c70cd957\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1668,
+                        "endColumn": 111,
+                        "endOffset": 1775
+                    }
                 }
             },
             {
@@ -227,7 +353,14 @@
                     "endOffset": 1869
                 },
                 "from": {
-                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\GaoFei\\.android\\build-cache\\cca74901766c2a812299733455f96a66c70cd957\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1780,
+                        "endColumn": 93,
+                        "endOffset": 1869
+                    }
                 }
             },
             {
@@ -239,7 +372,14 @@
                     "endOffset": 1916
                 },
                 "from": {
-                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 46,
+                        "endOffset": 193
+                    }
                 }
             },
             {
@@ -270,7 +410,14 @@
                     "endOffset": 2004
                 },
                 "from": {
-                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 274,
+                        "endColumn": 44,
+                        "endOffset": 314
+                    }
                 }
             },
             {
@@ -282,7 +429,14 @@
                     "endOffset": 2049
                 },
                 "from": {
-                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 320,
+                        "endColumn": 44,
+                        "endOffset": 360
+                    }
                 }
             },
             {
@@ -294,7 +448,14 @@
                     "endOffset": 2096
                 },
                 "from": {
-                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 46,
+                        "endOffset": 145
+                    }
                 }
             },
             {
@@ -306,7 +467,14 @@
                     "endOffset": 2174
                 },
                 "from": {
-                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\GaoFei\\.android\\build-cache\\cca74901766c2a812299733455f96a66c70cd957\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1874,
+                        "endColumn": 77,
+                        "endOffset": 1947
+                    }
                 }
             },
             {
@@ -318,7 +486,14 @@
                     "endOffset": 2211
                 },
                 "from": {
-                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 199,
+                        "endColumn": 36,
+                        "endOffset": 231
+                    }
                 }
             },
             {
@@ -330,7 +505,14 @@
                     "endOffset": 2312
                 },
                 "from": {
-                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                    "file": "C:\\Users\\GaoFei\\.android\\build-cache\\cca74901766c2a812299733455f96a66c70cd957\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1952,
+                        "endColumn": 100,
+                        "endOffset": 2048
+                    }
                 }
             },
             {
@@ -342,7 +524,14 @@
                     "endOffset": 2348
                 },
                 "from": {
-                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                    "file": "D:\\libvlc-android-samples\\TestVideoPlayer\\videoPlayer\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 237,
+                        "endColumn": 35,
+                        "endOffset": 268
+                    }
                 }
             }
         ]

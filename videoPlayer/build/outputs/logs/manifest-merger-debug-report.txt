@@ -19,18 +19,18 @@ ADDED from D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\src\main\Androi
 		ADDED from D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\src\main\AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support:appcompat-v7:25.1.1] D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.1.1] D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.1.1] D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.1.1] D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.1.1] D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.1.1] D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.1.1] D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.1.1] D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-compat:25.1.1] D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\AndroidManifest.xml:21:5-23:58
-MERGED from [:libvlc-3.0.0:] D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\exploded-aar\libvlc-3.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\GaoFei\.android\build-cache\cca74901766c2a812299733455f96a66c70cd957\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\GaoFei\.android\build-cache\a11a5bb6adf95366d90ecc33df40060fcd2ea73b\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\GaoFei\.android\build-cache\ab9a76e226655315c2208bf14d5cad8a456bf89c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\GaoFei\.android\build-cache\a70f93c74c52f09ec085b9725851259d39fcfeda\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\GaoFei\.android\build-cache\c936ef33c616d679c501d837d962b3a837771586\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\GaoFei\.android\build-cache\85b170c5821d12cf489eeaf3cefe9af9c906eeac\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\GaoFei\.android\build-cache\425b56b33832189166ff8615ef50f3f66100ea37\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\GaoFei\.android\build-cache\52fc40dd22f3a0b9b4d4009bee0edd9fc1a6f17e\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\GaoFei\.android\build-cache\a62ffba0581677abd9e7de002e4a8e28d245adc2\output\AndroidManifest.xml:21:5-23:58
+MERGED from [:libvlc-3.0.0:] C:\Users\GaoFei\.android\build-cache\e59f277b25951c2a32e09fb7544d1448907d62ae\output\AndroidManifest.xml:7:5-9:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.1.1] D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.1.1] C:\Users\GaoFei\.android\build-cache\cca74901766c2a812299733455f96a66c70cd957\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		ADDED from D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\src\main\AndroidManifest.xml:10:9-38
 		INJECTED from D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\src\main\AndroidManifest.xml
@@ -117,15 +117,15 @@ ADDED from D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\src\main\Androi
 		ADDED from D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\src\main\AndroidManifest.xml:30:22-76
 application
 ADDED from D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\src\main\AndroidManifest.xml:32:5-57:19
-MERGED from [com.android.support:appcompat-v7:25.1.1] D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.1.1] D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.1.1] D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.1.1] D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.1.1] D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.1.1] D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.1.1] D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.1.1] D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-compat:25.1.1] D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\GaoFei\.android\build-cache\cca74901766c2a812299733455f96a66c70cd957\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\GaoFei\.android\build-cache\a11a5bb6adf95366d90ecc33df40060fcd2ea73b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\GaoFei\.android\build-cache\ab9a76e226655315c2208bf14d5cad8a456bf89c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\GaoFei\.android\build-cache\a70f93c74c52f09ec085b9725851259d39fcfeda\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\GaoFei\.android\build-cache\c936ef33c616d679c501d837d962b3a837771586\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\GaoFei\.android\build-cache\85b170c5821d12cf489eeaf3cefe9af9c906eeac\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\GaoFei\.android\build-cache\425b56b33832189166ff8615ef50f3f66100ea37\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\GaoFei\.android\build-cache\52fc40dd22f3a0b9b4d4009bee0edd9fc1a6f17e\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\GaoFei\.android\build-cache\a62ffba0581677abd9e7de002e4a8e28d245adc2\output\AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\src\main\AndroidManifest.xml:36:9-41
 	android:allowBackup

@@ -1,36 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
-    api-level="19"
-    format="8"
-    plugin-version="2.2.3"
-    timestamp="8822242777300"
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="25"
+    build-mode="FULL"
+    density="mdpi"
+    format="10"
+    plugin-version="2.3.3"
+    timestamp="1500607435153"
     token="1039974715526474992"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="488" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="23" />
     <task
         name="verifier"
-        duration="0" />
+        duration="14" />
 
     <artifact
+        location="D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
         location="D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\outputs\apk\videoPlayer-debug.apk"
-        type="MAIN" />
+        type="SPLIT_MAIN" />
 
     <build
-        timestamp="8822242777300"
+        build-mode="FULL"
+        timestamp="1500607435153"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
+            location="D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
             location="D:\libvlc-android-samples\TestVideoPlayer\videoPlayer\build\outputs\apk\videoPlayer-debug.apk"
-            type="MAIN" />
+            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>
